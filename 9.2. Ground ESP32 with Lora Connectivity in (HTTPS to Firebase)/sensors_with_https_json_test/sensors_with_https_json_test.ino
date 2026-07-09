@@ -12,9 +12,9 @@
 // ==========================================
 // 1. NETWORK & CLOUD CREDENTIALS
 // ==========================================
-const char* ssid = "IoT";
-const char* password = "12345678";
-const String FIREBASE_URL = "https://gen-lang-client-0061160538-default-rtdb.asia-southeast1.firebasedatabase.app/telemetry.json";
+//const char* ssid = "";  Put your Wifi/Mobile Data SSID or Name here
+//const char* password = ""; Put your Wifi/Mobile Data Password here
+//const String FIREBASE_URL = "";  Create your Firebase Project annd Paste the Firebase Project URL here
 
 // ==========================================
 // 2. HARDWARE OBJECTS & CONSTANTS
