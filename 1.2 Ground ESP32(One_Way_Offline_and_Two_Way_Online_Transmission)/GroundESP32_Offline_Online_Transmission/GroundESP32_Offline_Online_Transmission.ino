@@ -10,8 +10,8 @@
 // ==========================================
 // 1. CONFIGURATION & CREDENTIALS
 // ==========================================
-const char* ssid = "IoT"; 
-const char* password = "12345678";
+//const char* ssid = "IoT";              --- Your SSID/WIFI name or Mobile Data Hotspot Name
+//const char* password = "12345678";     --- Your Wifi Pass or Mobile Data Password
 
 // Dual Cloud Endpoints
 //const String SCRIPT_URL = "";  ----------- Create your Speadsheet Database and Paste its address here
