@@ -14,8 +14,8 @@ const char* ssid = "IoT";
 const char* password = "12345678";
 
 // Dual Cloud Endpoints
-const String SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzHseYlUQqtwkILgVQxdifiCusekLKgxhCN9lrBCcpUN7kTYYcTVimcXVe1tNdTeZo/exec";
-const String FIREBASE_URL = "https://gen-lang-client-0061160538-default-rtdb.asia-southeast1.firebasedatabase.app/telemetry.json";
+//const String SCRIPT_URL = "";  ----------- Create your Speadsheet Database and Paste its address here
+//const String FIREBASE_URL = ""; ---------- Create your Firebase Project and Paste its FIrebase Project URL here
 
 #define ss 5
 #define rst 14
