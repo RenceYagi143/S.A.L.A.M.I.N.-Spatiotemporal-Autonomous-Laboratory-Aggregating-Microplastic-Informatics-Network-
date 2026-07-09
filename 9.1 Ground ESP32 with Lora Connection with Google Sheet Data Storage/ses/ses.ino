@@ -10,9 +10,9 @@
 // ==========================================
 // 1. CONFIGURATION & CREDENTIALS
 // ==========================================
-const char* ssid = "IoT"; 
-const char* password = "12345678";
-const String SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzHseYlUQqtwkILgVQxdifiCusekLKgxhCN9lrBCcpUN7kTYYcTVimcXVe1tNdTeZo/exec";
+//const char* ssid = "";            ------------ Wifi SSID/Name or Mobile Data Hotspot Name
+//const char* password = "";        ------------ Wifi Pass or Mobile Data Password
+// const String SCRIPT_URL = "";    ------------ Create your Spreadsheet Project and Paste your Project URL Here
 
 #define ss 5
 #define rst 14
