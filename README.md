@@ -10,8 +10,7 @@ As the boat drives, it acts as a mobile chemistry lab. A small pump pulls river 
 3. Aggregating Informatics (Your 19-Sensor Array)
 At the exact same moment the camera is counting the plastic, your massive sensor array is reading the environment:
 
-//---The Hydro-Sensors (pH, TDS, Turbidity, Water Temp): These determine the toxicity and physical state of the water.
-//---The Aero-Sensors (BME680 - VOCs, Air Temp, Humidity, Pressure): Mounted on the roof of the boat, this acts as the "nose" of the system, sniffing the air right above the polluted water.
+//---The Hydro-Sensors (pH, TDS, Turbidity, Water Temp): These determine the toxicity and physical state of the water. The Aero-Sensors (BME680 - VOCs, Air Temp, Humidity, Pressure): Mounted on the roof of the boat, this acts as the "nose" of the system, sniffing the air right above the polluted water.
 
 4. The Spatiotemporal Network (The 4D Digital Twin)
 The boat packages the plastic count, the 19 environmental parameters, and its exact GPS location, beaming it via telemetry (LoRa or Wi-Fi) to your web backend (built on a fast stack like Next.js, React, and Supabase).
